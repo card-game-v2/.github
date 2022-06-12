@@ -38,47 +38,47 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis blanditiis atque
 
 ```yaml
 $ git clone https://github.com/card-game-v2/application.git
-  # Clones the repository into the current directory.
+# Clones the repository into the current directory.
 
 $ cd application
-  # Changes the current directory to the application directory.
+# Changes the current directory to the application directory.
 
 $ npm install
-  # Installs all the dependencies.
+# Installs all the dependencies.
 
 you can run several commands:
 
 $ npm start
-  # Starts the development server.
+# Starts the development server.
 
 $ npm run build
-  # Bundles the app into static files for production.
+# Bundles the app into static files for production.
 
 $ npm test
-  # Starts the test runner.
+# Starts the test runner.
 
 $ npm run eject
-  # Removes this tool and copies build dependencies, configuration files
-  # and scripts into the app directory. If you do this, you can’t go back!
+# Removes this tool and copies build dependencies, configuration files
+# and scripts into the app directory. If you do this, you can’t go back!
 ```
 
 ```yaml
 $ git clone https://github.com/gwdawson/server.git
-  # Clones the repository into the current directory.
+# Clones the repository into the current directory.
 
 $ cd server
-  # Changes the current directory to the server directory.
+# Changes the current directory to the server directory.
 
 $ npm install
-  # Installs all the dependencies.
+# Installs all the dependencies.
 
 you can run several commands:
 
 $ npm start
-  # Starts the development server.
+# Starts the development server.
 
 $ npm test
-  # Starts the test runner.
+# Starts the test runner.
 ```
 
 # License
