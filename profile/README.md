@@ -6,7 +6,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis blanditiis atque
 
 ## Development Process
 
-- [x] [View the Application]()
+- [ ] [View the Application]()
 - [x] [View the Roadmap](https://trello.com/b/n2mvmkUw/roadmap)
 
 ## Tools and technologies
