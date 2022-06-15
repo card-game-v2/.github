@@ -7,7 +7,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis blanditiis atque
 ## Useful Links
 
 - [ ] [How to Play]()
-- [ ] [Development Process]()
+- [x] [Development Process](https://github.com/card-game-v2/.github/blob/main/profile/DEVELOPMENT.md)
 
 ## Tools and technologies
 
