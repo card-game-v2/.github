@@ -1,14 +1,13 @@
-## [insert name here]
+## Card Game v2
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://github.com/card-game-v2/.github/blob/main/assets/BANNER.jpeg)
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis blanditiis atque itaque veritatis dolore molestiae perspiciatis fuga deserunt vitae dolorum quo odio expedita quidem beatae a aliquam, mollitia ullam unde esse illum adipisci suscipit nostrum. Ullam architecto sapiente reprehenderit repellendus a facere illum commodi, nihil pariatur magnam quaerat sit blanditiis esse voluptas dolore illo, animi unde et dolor nulla obcaecati distinctio totam nemo! Ex mollitia reprehenderit vero earum cumque, qui cupiditate, illum provident inventore velit delectus dicta ad explicabo quasi possimus fugit obcaecati. Libero fuga magni distinctio, alias autem harum non nihil totam aperiam dignissimos ad. Quis, aut ut. Animi.
 
-## Development Process
+## Useful Links
 
 - [ ] [How to Play]()
-- [ ] [View the Application]()
-- [x] [View the Roadmap](https://trello.com/b/n2mvmkUw/roadmap)
+- [ ] [Development Process]()
 
 ## Tools and technologies
 
@@ -22,8 +21,9 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis blanditiis atque
       "React": true,
       "React-router-dom": true,
       "React-toastify": true,
-      "React-parallax-tilt": true,
-      "Axios": true
+      "React-card-flip": true,
+      "Axios": true,
+      "Bcryptjs": true
     }
   },
   "server": {
